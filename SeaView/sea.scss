@@ -1,0 +1,16 @@
+$primary : #4468e2;
+$secondary : #7E76F9;
+$dark: #42495B;
+$success : #4ABB4A;
+$danger : #0c586f;
+$warning : #FFD037;
+$list-group-border-width:0px;
+$list-group-item-padding-y:2px;
+$list-group-bg:rgba(255, 0, 0, 0.009);
+$card-border-width: 0px;
+$card-border-radius: 30px;
+$card-bg: rgba(255, 255, 255, 0);
+$input-bg:rgba(255, 255, 255, 0);
+$input-border-color: rgba(255, 255, 255, 0);
+$input-focus-border-color:rgba(255, 255, 255, 0); 
+@import "../node_modules/bootstrap/scss/bootstrap";
